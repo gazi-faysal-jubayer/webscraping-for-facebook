@@ -1,2 +1,2 @@
-username = "jobfinder.me.2023@gmail.com"
-password = "fadedhdlrbaxubayer"
+username = "#############@gmail.com"
+password = "######################"
